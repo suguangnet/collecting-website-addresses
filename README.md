@@ -71,7 +71,7 @@ pip install requests beautifulsoup4
 - 将结果导出为 CSV/JSON 文件。
 - 增加状态栏与加载指示、异常信息更细化展示。
 
-![软件界面](/软件界面.png)
+![软件界面](./软件界面.png)
 
 ## 技术支持
 
