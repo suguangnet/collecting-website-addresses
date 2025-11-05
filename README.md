@@ -23,7 +23,7 @@ pip install requests beautifulsoup4
 ## 使用方法
 1. 在终端/PowerShell 进入项目目录：
    ```bash
-   cd c:\Users\Administrator\Desktop\发布软件仓库项目\采集网址
+   cd d:\采集网址
    ```
 2. 运行程序：
    ```bash
@@ -71,7 +71,7 @@ pip install requests beautifulsoup4
 - 将结果导出为 CSV/JSON 文件。
 - 增加状态栏与加载指示、异常信息更细化展示。
 
-![软件界面](软件界面.png)
+![软件界面](/软件界面.png)
 
 ## 技术支持
 
